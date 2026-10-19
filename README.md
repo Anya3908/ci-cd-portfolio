@@ -6,8 +6,8 @@
 
 | № | Работа | Артефакт | Триггер | Репозиторий | Actions | Результат |
 |---|--------|----------|---------|-------------|---------|-----------|
-| 1 | **Rust + GHCR** | Docker-образ | push `main` | [hello-rust](https://github.com/Anya3908/hello-rust) | [▶ Actions](https://github.com/Anya3908/hello-rust/actions) | [📦 Package](https://github.com/users/Anya3908/packages/container/hello-rust) |
-| 2 | **Go + GHCR** | Docker-образ | push `main` | [hello-go](https://github.com/Anya3908/hello-go) | [▶ Actions](https://github.com/Anya3908/hello-go/actions) | [📦 Package](https://github.com/users/Anya3908/packages/container/hello-go) |
+| 1 | **Rust + GHCR** | Docker-образ | push `main` | [hello-rust](https://github.com/Anya3908/hello-rust) | [▶ Actions](https://github.com/Anya3908/hello-rust/actions) | [📦 Package](https://github.com/Anya3908?tab=packages) |
+| 2 | **Go + GHCR** | Docker-образ | push `main` | [hello-go](https://github.com/Anya3908/hello-go) | [▶ Actions](https://github.com/Anya3908/hello-go/actions) | [📦 Package](https://github.com/Anya3908?tab=packages) |
 | 3 | **Go + Releases** | 5 бинарников | push tag `v*` | [hello-go-releases](https://github.com/Anya3908/hello-go-releases) | [▶ Actions](https://github.com/Anya3908/hello-go-releases/actions) | [🏷 Releases](https://github.com/Anya3908/hello-go-releases/releases) |
 | 4 | **Python + Releases** | 3 бинарника | push tag `v*` | [hello-python](https://github.com/Anya3908/hello-python) | [▶ Actions](https://github.com/Anya3908/hello-python/actions) | [🏷 Releases](https://github.com/Anya3908/hello-python/releases) |
 | 5 | **C#/.NET + Releases** | 5 бинарников | push tag `v*` | [hello-dotnet](https://github.com/Anya3908/hello-dotnet) | [▶ Actions](https://github.com/Anya3908/hello-dotnet/actions) | [🏷 Releases](https://github.com/Anya3908/hello-dotnet/releases) |
